@@ -2,6 +2,7 @@
 
 An audit of a management sales dashboard, rebuilt in Excel from a cleaned dataset of 420 transactions (Jan to Aug 2026, five Nigerian markets, three product categories, three sales channels).
 
+![initial dashboard].(unaudited dashboard.png)
 ![Audited dashboard](dashboard.png)
 
 ## The problem
