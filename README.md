@@ -69,4 +69,4 @@ Microsoft Excel (formulas, native charts). Dataset supplied through the DSN AI B
 
 ## Author
 
-[Your name] · [LinkedIn link]
+AKINSOWON GBENGA EJIRO · [https://www.linkedin.com/in/akinsowon-gbenga-e/]
