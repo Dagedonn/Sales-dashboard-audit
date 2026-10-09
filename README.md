@@ -65,7 +65,7 @@ Microsoft Excel (formulas, native charts). Dataset supplied through the DSN AI B
 ## Files
 
 - `Sales_Dashboard_Audited.xlsx`: the full workbook
-- `images/dashboard.png`: dashboard snapshot
+- dashboard.png`: dashboard snapshot
 
 ## Author
 
